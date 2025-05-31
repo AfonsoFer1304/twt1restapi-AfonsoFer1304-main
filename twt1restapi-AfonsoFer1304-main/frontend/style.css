@@ -1,1 +1,17 @@
 /* Estilos para a página */
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+}
+
+form {
+  margin-bottom: 1.5rem;
+}
+
+input {
+  margin-right: 0.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
